@@ -1,4 +1,3 @@
-# SQL_Maji_Ndogo
 
 ## Revitalizing Maji Ndogo: A Data-Driven Approach to Addressing Water Scarcity
 
@@ -14,15 +13,16 @@ The first step involved understanding the dataset comprising 60,000 records dist
 - Core Entities: Employees, water sources, locations, visit logs, water quality assessments, and pollution data.
 - Metadata: The data dictionary provided a reference to attribute definitions.
 Key Findings
-Water Source Distribution: Five primary water source types were identified—household taps (functional and broken), wells, shared taps, and rivers.
-Queue Times: Shared taps had disproportionately long wait times, exceeding 500 minutes in some cases, often serving over 3,000 people.
-Water Quality Concerns: Survey data indicated potential inconsistencies, particularly where high-quality scores were assigned to revisited sources, contradicting protocol.
-Pollution Anomalies: A subset of well contamination records was misclassified, necessitating corrections to avoid health risks.
-Phase 2: Advanced Data Analysis
+- Water Source Distribution: Five primary water source types were identified—household taps (functional and broken), wells, shared taps, and rivers.
+- Queue Times: Shared taps had disproportionately long wait times, exceeding 500 minutes in some cases, often serving over 3,000 people.
+- Water Quality Concerns: Survey data indicated potential inconsistencies, particularly where high-quality scores were assigned to revisited sources, contradicting protocol.
+- Pollution Anomalies: A subset of well contamination records was misclassified, necessitating corrections to avoid health risks.
+  
+## Phase 2: Advanced Data Analysis
 This phase leveraged SQL functions, including window functions, to uncover deeper insights:
 
 Findings
-Population Reliance on Water Sources:
+1. Population Reliance on Water Sources:
 43% of the population depended on shared taps, with thousands relying on a single source.
 31% had home-based infrastructure, but nearly half of these systems were non-functional.
 18% accessed wells, yet only 28% of these were safe for consumption.
