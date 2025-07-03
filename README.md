@@ -23,12 +23,12 @@ This phase leveraged SQL functions, including window functions, to uncover deepe
 
 Findings
 1. Population Reliance on Water Sources:
-*43% of the population depended on shared taps, with thousands relying on a single source.
-*31% had home-based infrastructure, but nearly half of these systems were non-functional.
-*18% accessed wells, yet only 28% of these were safe for consumption.
+* 43% of the population depended on shared taps, with thousands relying on a single source.
+* 31% had home-based infrastructure, but nearly half of these systems were non-functional.
+* 18% accessed wells, yet only 28% of these were safe for consumption.
 2. Queue Dynamics:
-*Peak congestion occurred on Saturdays and during morning/evening hours.
-*Wednesdays and Sundays had significantly lower wait times.
+* Peak congestion occurred on Saturdays and during morning/evening hours.
+* Wednesdays and Sundays had significantly lower wait times.
 
 ## Phase 3: Data Integrity Audit
 Integrating an external auditors’ dataset, we validated the accuracy of surveyor records:
