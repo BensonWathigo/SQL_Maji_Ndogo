@@ -1,18 +1,18 @@
 # SQL_Maji_Ndogo
 
-Revitalizing Maji Ndogo: A Data-Driven Approach to Addressing Water Scarcity
+## Revitalizing Maji Ndogo: A Data-Driven Approach to Addressing Water Scarcity
 
-Background
+## Background
 Maji Ndogo, a fictional country, faces a severe water crisis that impacts the daily lives of its citizens. This project utilizes SQL to extract meaningful insights from extensive datasets, aiming to provide data-backed solutions to alleviate the crisis.
 
 Project Scope
 The study unfolds across four stages, each progressively increasing in complexity, focusing on data exploration, analytical clustering, statistical auditing, and strategic planning. By the end, a comprehensive framework is developed to guide interventions in the country's water management.
 
-Phase 1: Initial Data Investigation
+## Phase 1: Initial Data Investigation
 The first step involved understanding the dataset comprising 60,000 records distributed across eight key tables:
 
-Core Entities: Employees, water sources, locations, visit logs, water quality assessments, and pollution data.
-Metadata: The data dictionary provided a reference to attribute definitions.
+- Core Entities: Employees, water sources, locations, visit logs, water quality assessments, and pollution data.
+- Metadata: The data dictionary provided a reference to attribute definitions.
 Key Findings
 Water Source Distribution: Five primary water source types were identified—household taps (functional and broken), wells, shared taps, and rivers.
 Queue Times: Shared taps had disproportionately long wait times, exceeding 500 minutes in some cases, often serving over 3,000 people.
